@@ -5,3 +5,7 @@ node_modules
 coverage
 tests
 .DS_Store
+.github
+.prettierignore
+.prettierrc.json
+Dockerfile
